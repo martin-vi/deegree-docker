@@ -1,7 +1,7 @@
 deegree docker container
 ========================
 
-deegree version 3.3.9 webservice with docker using tomacat+deegree bundle from the deegree.org website
+deegree version 3.3.9 webservice with docker using tomcat+deegree bundle from the deegree.org website
 
 Usage
 -----
