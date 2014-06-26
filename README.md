@@ -1,13 +1,13 @@
 deegree docker container
 ========================
 
-deegree version 3.3.9 webservice with docker using tomcat+deegree bundle from the deegree.org website
+latest deegree webservice with docker using tomcat+deegree bundle from the deegree.org website
 
 Usage
 -----
 
 ```
-docker run -p 8080:8080 -d martinvi/deegree:3.3.9
+docker run -p 8080:8080 -d martinvi/deegree:latest
 ```
 
 Build
